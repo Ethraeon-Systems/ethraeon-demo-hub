@@ -1,0 +1,15 @@
+name: ethraeon-demo-hub
+id: ari:cloud:compass:642a4598-b478-46b8-9ea8-a04b4063efb4:component/b2feda24-9f45-44dc-b8cd-ad95a7e6d204/29c4d5be-b18e-4a7b-a6ae-fcb576076bb5
+description: Ethraeon Private Demo Hub
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:typescript
+  - source:github
+  - synced-with-jsm
+customFields: null
