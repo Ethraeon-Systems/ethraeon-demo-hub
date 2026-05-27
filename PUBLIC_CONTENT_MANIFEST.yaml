@@ -1,0 +1,12 @@
+version: 2026-05-27
+status: ACTIVE
+classification: public_non_ip
+areas:
+  - frontend_demos
+  - backend_demo_adapters
+  - api_reference_examples
+platform_targets:
+  - web
+  - ios
+  - android
+  - desktop
